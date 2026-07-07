@@ -26,8 +26,9 @@ A comprehensive manual testing project on the [OpenCart](https://demo.opencart.c
 |---|---|
 | JIRA (Company-Managed) | Bug reporting, project tracking, Epic/Story structure |
 | Zephyr Scale | Test case design, folder organization, labels, traceability |
-| OpenCart Demo v4.0.2.3 | Application under test |
+| OpenCart Demo v4.0 | Application under test |
 | Google Chrome | Test execution browser |
+| Claude (Anthropic) | AI assistant used to accelerate test case documentation |
 | GitHub | Portfolio documentation and version control |
 
 ---
@@ -227,7 +228,7 @@ All Checkout test cases carry the `Shift_Left` label in Zephyr Scale to clearly 
 This project is structured for Selenium WebDriver automation to be added on top of the existing manual test cases. The planned automation layer will use:
 
 - **Selenium WebDriver** with Java
-- **Page Object Model (POM)** design pattern
+- Design patterns
 - Automation of the regression suite derived from the manual test cases already designed
 
 This mirrors the real-world QA lifecycle: manual first to understand the application and identify defects, then automate the stable regression suite.
@@ -238,9 +239,7 @@ Interview story: *"I tested this application manually first to understand the fl
 
 ## About This Project
 
-This project was built over 14 days as a portfolio piece to demonstrate practical QA engineering skills. Test case design, scope decisions, module breakdown, bug discovery, and test execution were carried out by me. AI tooling was used to assist with test case documentation and formatting to accelerate the process — consistent with how QA engineers use modern tooling in real teams.
-
-The goal was to produce something honest, thorough, and defensible in a technical interview — not inflated numbers or fabricated findings.
+This project was built over 14 days as a portfolio piece to demonstrate practical QA engineering skills. Test case design, scope decisions, module breakdown, bug discovery, and test execution were carried out by me. AI tooling was used to assist with test case documentation and formatting to accelerate the process.
 
 ---
 
@@ -249,3 +248,5 @@ The goal was to produce something honest, thorough, and defensible in a technica
 **Yousef Mohamed**
 Junior QA Engineer — Egypt
 GitHub: [YousefMo8](https://github.com/YousefMo8)
+LinkedIn: [yousefmo8](https://www.linkedin.com/in/yousefmo8/)
+Email: yousefjoem@gmail.com
