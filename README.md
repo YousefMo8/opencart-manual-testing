@@ -203,8 +203,6 @@ Full bidirectional traceability is maintained throughout the project:
 - Each **Bug** in JIRA is linked to the specific **failing test case** that revealed it in Zephyr Scale
 - Test cases use a consistent **labeling system** (module + type) enabling filtering by area, type, or test approach across all 258 cases
 
-This traceability structure mirrors professional QA workflows and ensures every defect can be traced back to its origin and every requirement can be traced to its test coverage.
-
 ---
 
 ## Checkout Module — Shift-Left Testing Note
@@ -231,15 +229,11 @@ This project is structured for Selenium WebDriver automation to be added on top 
 - Design patterns
 - Automation of the regression suite derived from the manual test cases already designed
 
-This mirrors the real-world QA lifecycle: manual first to understand the application and identify defects, then automate the stable regression suite.
-
-Interview story: *"I tested this application manually first to understand the flows and identify defects, then I will automate the regression suite using Selenium WebDriver with Page Object Model."*
-
 ---
 
 ## About This Project
 
-This project was built over 14 days as a portfolio piece to demonstrate practical QA engineering skills. Test case design, scope decisions, module breakdown, bug discovery, and test execution were carried out by me. AI tooling was used to assist with test case documentation and formatting to accelerate the process.
+This project was built over 10 days as a portfolio piece to demonstrate practical QA engineering skills. Test case design, scope decisions, module breakdown, bug discovery, and test execution were carried out by me. AI tooling was used to assist with test case documentation and formatting to accelerate the process.
 
 ---
 
