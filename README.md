@@ -8,7 +8,7 @@ A comprehensive manual testing project on the [OpenCart](https://demo.opencart.c
 
 | | |
 |---|---|
-| **Application Under Test** | OpenCart Demo v4.0.2.3 |
+| **Application Under Test** | OpenCart Demo v4.0 |
 | **Project Type** | Manual Testing (Phase 1) |
 | **Test Management** | JIRA + Zephyr Scale |
 | **Project Key** | OCT |
